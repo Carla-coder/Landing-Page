@@ -127,5 +127,5 @@ Agradeço ao youtuber Gustavo Nietzke pelo projeto original que serviu de base e
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/Carla-coder)
+- [@Carla-coder](https://www.github.com/Carla-coder)
 
